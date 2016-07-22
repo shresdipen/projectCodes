@@ -1,0 +1,4 @@
+The core idea of the project is to analyze the expenses of a person.
+It generates 3 reports which are based on monthly, quaterly and yearly expense report according to the type of exense.
+The data has id of person, name, type of expense (example utility, entertainment), detail of expense, date of expense.
+The project is developed using scala and spark.
